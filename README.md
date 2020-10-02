@@ -1,5 +1,4 @@
 # DQL-B-C-FrozenLake
-<p>A new version of Deep Q-Learning designed for sparse reward environments and tested in a grid world.</p>
 State-of-the-art methods for deep reinforcement learning have demonstrated the
 ability to learn complex game strategies for Atari’s games, Chess, Go... Deep
 Q-Learning was the first deep reinforcement learning method to outperform
