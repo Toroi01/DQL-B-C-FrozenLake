@@ -13,5 +13,6 @@ with different grid sizes. The experiments demonstrate that DQL-B-C explores
 better and learns more quickly.
 
 Slides: https://docs.google.com/presentation/d/1aFe31BxnpFCj2PPX7y-xMYof2UImC5n40bP7NmLgLp8/edit?usp=sharing
+
 Demo: https://youtu.be/agRfDT3sp9A
 
