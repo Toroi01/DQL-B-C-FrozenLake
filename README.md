@@ -1,4 +1,5 @@
 # DQL-B-C-FrozenLake
+
 State-of-the-art methods for deep reinforcement learning have demonstrated the
 ability to learn complex game strategies for Atari’s games, Chess, Go... Deep
 Q-Learning was the first deep reinforcement learning method to outperform
@@ -10,4 +11,7 @@ Q-Learning with Boltzmann Count-Based exploration (DQL-B-C) has been
 developed. The algorithm has been tested and compared in a grid environment
 with different grid sizes. The experiments demonstrate that DQL-B-C explores
 better and learns more quickly.
+
+Slides: https://docs.google.com/presentation/d/1aFe31BxnpFCj2PPX7y-xMYof2UImC5n40bP7NmLgLp8/edit?usp=sharing
+
 
